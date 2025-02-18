@@ -1,0 +1,54 @@
+species	mult	sym	wstate	name	long_name
+n2	1	Ag	1	N2(X1Sigmag+)	X${}^1\Sigma_g^+$
+n2	1	Ag	2	N2(app1Sigmag+)	a''${}^1\Sigma_g^+$
+n2	1	Ag	3	N2(11Deltag)	1${}^1\Delta_g$
+n2	1	Ag	4	N2(11Deltag)	2${}^1\Delta_g$
+n2	3	Ag	1	N2(G3Deltag)	G${}^3\Delta_g$
+n2	3	Ag	2	N2(E3Sigmag+)	E${}^3\Sigma_g^+$
+n2	1	B3u	1	N2(11Phiu)	1${}^1\Phi_u$
+n2	1	B3u	2	N2(11Piu)	1${}^1\Pi_u$
+n2	1	B3u	3	N2(21Piu)	2${}^1\Pi_u$
+n2	3	B3u	1	N2(C3Piu)	C${}^3\Pi_u$
+n2	3	B3u	2	N2(H3Phiu)	H${}^3\Phi_u$
+n2	3	B3u	3	N2(13Piu)	1${}^3\Pi_u$
+n2	1	B1g	1	N2(11Deltag)	1${}^1\Delta_g$
+n2	1	B1g	2	N2(21Deltag)	2${}^1\Delta_g$
+n2	3	B1g	1	N2(G3Deltag)	G${}^3\Delta_g$
+n2	3	B1g	2	N2(13Sigmag-)	1${}^3\Sigma_g^-$
+n2	1	B1u	1	N2(w1Deltau)	w${}^1\Delta_u$
+n2	3	B1u	1	N2(A3Sigmau+)	A${}^3\Sigma_u^+$
+n2	3	B1u	2	N2(W3Deltau)	W${}^3\Delta_u$
+n2	3	B1u	3	N2(D3Sigmau+)	D${}^3\Sigma_u^+$
+n2	1	B2g	1	N2(a1Pig)	a${}^1\Pi_g$
+n2	3	B2g	1	N2(B3Pig)	B${}^3\Pi_g$
+n2	1	Au	1	N2(ap1Sigmau-)	a'${}^1\Sigma_u^-$
+n2	1	Au	2	N2(w1Deltau)	w${}^1\Delta_u$
+n2	3	Au	1	N2(W3Deltau)	W${}^3\Delta_u$
+n2	3	Au	2	N2(Bp3Sigmau-)	B'${}^3\Sigma_u^-$
+
+
+n2	1	B2g	2	n2	N2(1Pig)	${}^1\Pi_g$
+n2	1	Sup	1	n2	N2(bp1Sigmau+)	b'${}^1\Sigma_u^+$
+n2	1	Sup	2	n2	N2(cp1Sigmau+)	c’${}^1\Sigma_u^+$
+n2	1	Pu	1	n2	N2(b1Piu)	b${}^1\Pi_u$
+n2	3	Pu	2	n2	N2(3Piu)	${}^3\Pi_u$
+n2	3	Sgp	1	n2	N2(3Sigmag+)	${}^3\Sigma_g^+$
+
+n2p	2	Ag	1	N2+(X2Sigmag+)	X${}^2\Sigma_g^+$
+n2p	2	Ag	2	N2+(2Sigmag+)	${}^2\Sigma_g^+$
+n2p	2	B3u	1	N2+(A2Piu)	A${}^2\Pi_u$
+n2p	2	B3u	2	N2+(2Piu)	${}^2\Pi_u$
+n2p	2	B1u	1	N2+(B2Sigmau+)	B${}^2\Sigma_u^+$
+n2p	2	B1u	2	N2+(C2Sigmau+)	C${}^2\Sigma_u^+$
+n2p	2	B1u	3	N2+(2Sigmau+)	${}^2\Sigma_u^+$
+n2p	4	B1u	1	N2+(a4Sigmau+)	a${}^4\Sigma_u^+$
+n2p	4	B1u	2	N2+(4Deltau)	${}^4\Delta_u$
+n2p	2	B2g	1	N2+(2Pig)	D${}^2\Pi_g$
+n2p	2	B2g	2	N2+(2Pig)	D${}^2\Pi_g$
+n2p	2	Au	1	N2+(2Deltau)	${}^2\Delta_u$
+n2p	2	Au	2	N2+(2Deltau)	${}^2\Delta_u$
+n2p	4	Au	1	N2+(4Deltau)	${}^4\Delta_u$
+n2p	4	Au	2	N2+(4Sigmau-)	${}^4\Sigma_u^-$
+
+n2p	4	Pg	1	n2	N2+(4Pig)	${}^4\Pi_g$
+n2p	4	Pu	1	n2	N2+(4Piu)	${}^4\Pi_u$

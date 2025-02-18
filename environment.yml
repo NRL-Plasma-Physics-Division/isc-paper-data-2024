@@ -1,0 +1,14 @@
+name: isc-paper-data-2024
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - ipykernel
+  - matplotlib
+  - scipy
+  - numpy
+  - pandas
+  - adjustText
+  - cython
+  - pip
